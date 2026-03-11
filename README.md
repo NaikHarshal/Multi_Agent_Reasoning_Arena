@@ -37,16 +37,15 @@ The result is a live reasoning arena, not a Q&A tool.
 
 # How to Run
 1. Install dependencies
-pip install streamlit ollama
+   -pip install streamlit ollama
 
-2. Ensure Ollama is running
-ollama serve
+3. Ensure Ollama is running  ollama server
 
-3. Run the app
-streamlit run app.py
+4. Run the app
+- streamlit run app.py
 
-4. Open following link in browser:
-http://localhost:8501
+5. Open this link in browser:
+- http://localhost:8501
 
 # Example Use Cases
 - Exploring ethical, technical, or philosophical debates
